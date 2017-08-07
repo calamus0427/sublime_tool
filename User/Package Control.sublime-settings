@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"npm-install",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Vue Syntax Highlight"
+	]
+}
